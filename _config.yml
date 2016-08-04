@@ -1,4 +1,3 @@
-layout_spectrum: 0.6074384008534253
 typography_spectrum: 0.20283836126327515
 color:
   brandStrength: 0.2836701269261539
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.6074384008534253
 name: SGT Geall
 title: Music made by ear.
+description: well at least one of them
